@@ -34,6 +34,83 @@
     float: right;
     border-radius: 50%;
     height: 50px;
-
+    position: relative;
+    bottom: 150px;
+    padding: 0%;
     
+
+}
+
+.spn{
+width: 60px;
+border: 1px solid black;
+background-color: #424242;
+color: white;
+text-align: justify;
+
+
+
+}
+
+.nbr{
+
+    display: flex;
+    
+    height: 50px;
+    
+   
+}
+
+.nbr-main{
+    display: inline-block;
+    position: relative;
+    left: 60px;
+    top: 2px;
+}
+
+
+#rs{
+    width: 40px;
+    border: 1px solid black;   
+    background-color: #424242;
+    color: white;
+}
+
+.nav2{
+    position: relative;
+    bottom: 40px;
+    left: 500px;
+    gap: 40px;
+    display: flex;
+
+}
+
+
+
+#n:hover{
+    background-color: black;
+    color: white;
+    
+   
+}
+
+#n{
+    border-radius: 5px;
+  
+}
+
+.main2{
+    background-color: #f1ebeb;
+}
+
+.nav-item{
+    list-style: none;
+}
+
+
+.us-img{
+position: relative;
+left: 20px;
+height: 560px;
+width: 100%;
 }
